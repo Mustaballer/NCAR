@@ -1,3 +1,6 @@
+## NCAR won BEST TRAVEL AND TRANSPORTATION HACK at MakeUoft
+Devpost: https://devpost.com/software/ncar-nighttime-collision-avoidance-system
+
 ## Inspiration
 As OEMs(Original equipment manufacturers) and consumers keep putting on brighter and brighter lights, this can be blinding for oncoming traffic. Along with the fatigue and difficulty judging distance, it becomes increasingly harder to drive safely at night. Having an extra pair of night vision would be essential to protect your eyes and that's where the NCAR comes into play. The Nighttime Collision Avoidance Response system provides those extra sets of eyes via an infrared camera that uses machine learning to classify obstacles in the road that are detected and projects light to indicate obstacles in the road and allows safe driving regardless of the time of day.
 
