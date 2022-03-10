@@ -1,4 +1,4 @@
-## NCAR won BEST TRAVEL AND TRANSPORTATION HACK at MakeUoft
+## NCAR won BEST TRAVEL AND TRANSPORTATION HACK at MakeUofT
 Devpost: https://devpost.com/software/ncar-nighttime-collision-avoidance-system
 
 ## Inspiration
